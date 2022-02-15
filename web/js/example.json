@@ -1,0 +1,94 @@
+[
+
+        {
+            "name_gallery": "first",
+            "type_gallery": "all",
+            "photos":[ 
+                        {   
+                            "href" : "../images/gallery_grid/img-1.jpg" ,
+                            "description" : "Описание1 Описание1 Описание1 Описание1 Описание Описание Описание Описание"
+                        },
+
+                        {
+                            "href" : "../img-2.jpg" ,
+                            "description" : "Описание2 Описание2 Описание2 Описание Описание Описание Описание Описание"
+                         },
+                          {
+                            "href" : "../images/gallery_grid/img-3.jpg" ,
+                            "description" : "Описание3 Описание3 Описание3 Описание Описание Описание Описание Описание"
+                         },
+                          {
+                            "href" : "../images/gallery_grid/img-4.jpg" ,
+                            "description" : ""
+                         },
+                          {
+                            "href" : "../images/gallery_grid/img-5.jpg" ,
+                            "description" : ""
+                         },
+                          {
+                            "href" : "../images/gallery_grid/img-6.jpg" ,
+                            "description" : ""
+                         },
+                          {
+                            "href" : "../images/gallery_grid/img-7.jpg" ,
+                            "description" : "Описание7 Описание7 Описание7 Описание Описание Описание Описание Описание"
+                         }         
+                     ]
+
+
+         },
+
+         {
+            "name_gallery": "second",
+            "type_gallery": "one",
+            "photos":[ 
+                        {   
+                            "href" : "../images/gallery_grid/img-1.jpg" ,
+                            "description" : "Описание1 Описание1 Описание1 Описание1 Описание Описание Описание Описание"
+                        },
+
+                        {
+                            "href" : "../images/gallery_grid/img-2.jpg" ,
+                            "description" : "Описание2 Описание2 Описание2 Описание Описание Описание Описание Описание"
+                         },
+                          {
+                            "href" : "../images/gallery_grid/img-3.jpg" ,
+                            "description" : "Описание3 Описание3 Описание3 Описание Описание Описание Описание Описание"
+                         },
+                          {
+                            "href" : "../images/gallery_grid/img-4.jpg" ,
+                            "description" : ""
+                         },
+                          {
+                            "href" : "../images/gallery_grid/img-5.jpg" ,
+                            "description" : ""
+                         },
+                          {
+                            "href" : "/images/gallery_grid/img-6.jpg" ,
+                            "description" : "678"
+                         },
+                          {
+                            "href" : "/images/gallery_grid/img-7.jpg" ,
+                            "description" : "Описание7 Описание7 Описание7 Описание Описание Описание Описание Описание"
+                         }        
+                     ]
+
+
+         },
+
+         {
+            "name_gallery": "third",
+            "type_gallery": "all",
+            "photos":[ 
+                        {   
+                            "href" : "/images/gallery_grid/img-1.jpg" ,
+                            "description" : "1description first"
+                        }       
+                     ]
+
+
+         }
+
+
+     
+]
